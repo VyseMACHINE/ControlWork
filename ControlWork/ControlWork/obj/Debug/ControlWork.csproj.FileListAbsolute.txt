@@ -1,0 +1,13 @@
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.dll
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.xml
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ЖангельдинТ\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete
